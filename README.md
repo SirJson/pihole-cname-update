@@ -17,7 +17,7 @@ If you have ideas on how to improve this scripts, PRs are welcome!
 ## What is the difference to the bash script
 
 - This script can source multiple lists and not only one
-- It will use sanitised SQL statements
+- It will use prepared SQL statements
   - Though there is still the issue of downloading data from an unknown source.. but that depends on
     how you use this script
 - Maybe it can be expanded for other things in the future
