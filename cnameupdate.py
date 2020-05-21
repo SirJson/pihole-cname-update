@@ -9,7 +9,7 @@ import os
 import sys
 from datetime import datetime
 
-DEBUG = sys.argv[1] == "--debug"
+DEBUG = len(sys.argv) > 1 && sys.argv[1] == "--debug"
 if not DEBUG:
     PIHOLE_DB = '/etc/pihole/gravity.db'
 else:
