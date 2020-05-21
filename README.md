@@ -26,6 +26,9 @@ If you have ideas on how to improve this scripts, PRs are welcome!
 
 - Python 3.6 or later
 - [requests](https://requests.readthedocs.io/en/master/user/install/)
+    - Follow the instructions above or:
+        - See if `requests` is packaged by your system package manager
+        - Use `pip3 install requests` if you must
 
 ## Usage
 
