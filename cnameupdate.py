@@ -7,7 +7,6 @@ import sqlite3
 import requests
 import os
 import sys
-from elevate import elevate
 from datetime import datetime
 
 DEBUG = sys.argv[1] == "--debug"
