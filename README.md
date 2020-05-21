@@ -26,9 +26,10 @@ If you have ideas on how to improve this scripts, PRs are welcome!
 
 - Python 3.6 or later
 - [requests](https://requests.readthedocs.io/en/master/user/install/)
-    - Follow the instructions above or:
-        - See if `requests` is packaged by your system package manager
-        - Use `pip3 install requests` if you must
+    - On Raspbian / Debian / Ubuntu: `sudo apt install python3-requests`
+    - If you use something else follow the instructions above or:
+        - Still see if `requests` is packaged by your system package manager
+        - Use `pip3 install requests` if you absolutely must
 
 ## Usage
 
