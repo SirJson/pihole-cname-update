@@ -28,8 +28,8 @@ If you have ideas on how to improve this scripts, PRs are welcome!
 - [requests](https://requests.readthedocs.io/en/master/user/install/)
     - On Raspbian / Debian / Ubuntu: `sudo apt install python3-requests`
     - If you use something else follow the instructions above or:
-        - Still see if `requests` is packaged by your system package manager
-        - Use `pip3 install requests` if you absolutely must
+        - Have another look if `requests` is packaged by your system package manager
+        - And if that is not the case use `pip3 install requests` if you absolutely must
 
 ## Usage
 
