@@ -10,7 +10,7 @@ execute SQL statements via bash I wrote this python script that expanded on that
 admin interface and I just didn't know that.**
 
 Also there almost no error handling because I mainly wrote this for myself but stil
-want to share it with others who might benifit from it.
+want to share it with others who might benefit from it.
 
 If you have ideas on how to improve this scripts, PRs are welcome!
 
